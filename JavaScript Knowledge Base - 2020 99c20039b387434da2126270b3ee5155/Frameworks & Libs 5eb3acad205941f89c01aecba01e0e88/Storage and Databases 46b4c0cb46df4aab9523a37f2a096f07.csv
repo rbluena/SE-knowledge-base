@@ -1,0 +1,5 @@
+﻿Name,Doc,Repository
+TaffyDB,http://taffydb.com/,https://github.com/typicaljoe/taffydb
+Mongoose,https://mongoosejs.com/,https://github.com/Automattic/mongoose
+Sequelize,https://sequelize.org/,https://github.com/sequelize/sequelize/
+Prisma,https://www.prisma.io/,https://github.com/prisma/prisma

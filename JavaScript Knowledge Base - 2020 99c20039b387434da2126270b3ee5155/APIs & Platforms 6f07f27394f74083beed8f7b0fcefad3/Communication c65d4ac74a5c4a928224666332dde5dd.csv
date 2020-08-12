@@ -1,0 +1,6 @@
+﻿Name,Category,Documentation,Environment
+SendGrid,email,https://sendgrid.com/docs/,"dev, production"
+Slack,chat,https://api.slack.com/web,"dev, production"
+Twilio,"call, sms",https://www.twilio.com/docs/all,"dev, production"
+MailChimp,email,https://mailchimp.com/developer/,"dev, production"
+Disqus,,https://help.disqus.com/en/articles/1717080-developer-documentation,
