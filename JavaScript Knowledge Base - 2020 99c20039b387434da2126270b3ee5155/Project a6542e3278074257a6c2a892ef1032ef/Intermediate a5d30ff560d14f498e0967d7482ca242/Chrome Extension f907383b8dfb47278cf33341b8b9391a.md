@@ -1,3 +1,0 @@
-# Chrome Extension
-
-Property: vanillajs

@@ -1,5 +1,0 @@
-﻿Name,Documentation,Environment
-Google,https://developers.google.com/identity/protocols/oauth2,"dev, production"
-Facebook,https://developers.facebook.com/docs/facebook-login/web/,"dev, production"
-Twitter,https://developer.twitter.com/en/docs/basics/authentication/overview,"dev, production"
-Github,https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/,"dev, production"
